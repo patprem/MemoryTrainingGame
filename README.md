@@ -72,7 +72,7 @@ The difficulty level (sequence length) increases after the user gets a certain n
 * When using absolute device orientation there are four values: x, y, z and w; where x value represents the forwards-backwards tilt of the phone. It can visualised as below:
 
 <p align="center">
-    <img src="https://github.com/patprem/MemoryTrainingGame/blob/3863e4b3f8c4a0f860442880de04873161490dab/images/fig1.png" width = 400 height = 300 alt>
+    <img src="https://github.com/patprem/MemoryTrainingGame/blob/3863e4b3f8c4a0f860442880de04873161490dab/images/fig1.png" width = 400 height = 250 alt>
 </p>
 <p align="center">
     <em>Figure 1: Side view of phone at different beta (x) angles</em>
