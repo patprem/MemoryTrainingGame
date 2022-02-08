@@ -91,8 +91,6 @@ In Figure 2, where we are looking at the bottom of the phone, being at on a surf
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTE -->
 ## Contribute
 
@@ -102,7 +100,8 @@ If you like this project and interested to contribute:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+The codes used in this project borrows from Monash University and rewritten to incorporate into my project.
 
-
-
-
+<p align="right">(<a href="#top">back to top</a>)</p>
