@@ -53,12 +53,12 @@ Simon is a 40-year-old electronic game, currently produced by [Hasbro](https://e
 ### How this works?
 ### Game Progression
 The table shown below depicts some example sequences that might be shown when playing the game.
-![table1](https://github.com/patprem/MemoryTrainingGame/blob/5292c14b277cb99ed5abb682b7cdf7d027a26bad/table1.png)
+![table1](https://github.com/patprem/MemoryTrainingGame/blob/3863e4b3f8c4a0f860442880de04873161490dab/images/table1.png)
 
 The difficulty level (sequence length) increases after the user gets a certain number of sequences of that length correct. The number of correct sequences needed to advance is shown in the table below (the number is always two less than the sequence length).
 
 <p align="center">
-  <img src = "https://github.com/patprem/MemoryTrainingGame/blob/abc60e13c3bef98531fe514e1f57597381b1872a/table2.png" width = 500 height = 300>
+  <img src = "https://github.com/patprem/MemoryTrainingGame/blob/3863e4b3f8c4a0f860442880de04873161490dab/images/table2.png" width = 500 height = 300>
 </p>
 
 * For example, at the start of the game, the player is given sequences of length 4. The player receives RRGB followed by GGBY and they get both correct. Since they have entered two sequences correctly, the game now increases to sequences of length 5. The player then receives YYGBR (a sequence of length 5) and needs to enter 3 of further correct sequences to advance to sequences of length 6.
@@ -72,7 +72,7 @@ The difficulty level (sequence length) increases after the user gets a certain n
 * When using absolute device orientation there are four values: x, y, z and w; where x value represents the forwards-backwards tilt of the phone. It can visualised as below:
 
 <p align="center">
-    <img src="https://github.com/patprem/MemoryTrainingGame/blob/68eb2ed99ca9faa70b082947c58207ab5cc25bd8/fig1.png" width = 400 height = 300 alt>
+    <img src="https://github.com/patprem/MemoryTrainingGame/blob/3863e4b3f8c4a0f860442880de04873161490dab/images/fig1.png" width = 400 height = 300 alt>
 </p>
 <p align="center">
     <em>Figure 1: Side view of phone at different beta (x) angles</em>
@@ -81,7 +81,7 @@ The difficulty level (sequence length) increases after the user gets a certain n
 In Figure 1, where we are looking at the phone from the side, this means that when the device is at on a surface, screen facing up it will have a y value of 0 degrees, tilting the top of the phone down gives a y value of -45 and tilting the top of the phone up gives a y value of +45.
 
 <p align="center">
-    <img src="https://github.com/patprem/MemoryTrainingGame/blob/4daa95a1eb36e1f176c9e9801789fa9004483e63/fig2.png" width = 400 height = 200 alt>
+    <img src="https://github.com/patprem/MemoryTrainingGame/blob/3863e4b3f8c4a0f860442880de04873161490dab/images/fig2.png" width = 400 height = 200 alt>
 </p>
 <p align="center">
     <em>Figure 2: Bottom-side view of phone at different gamma (y) angles</em>
