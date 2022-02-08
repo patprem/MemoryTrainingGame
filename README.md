@@ -10,7 +10,7 @@
         <li><a href="#background">Background</a></li>
       </ul>
       <ul>
-        <li><a href="#why-is-this-important">Why is this important?</a></li>
+        <li><a href="#why-is-this-app-important">Why is this app important?</a></li>
       </ul>
       <ul>
         <li><a href="#prerequisites">Prerequisites?</a></li>
@@ -47,7 +47,7 @@ The objective of this project is to develop a memory skill game based on the ele
 
 Simon is a 40-year-old electronic game, currently produced by [Hasbro](https://en.wikipedia.org/wiki/Simon_(game)). The game has four coloured buttons that light up and play a sound in sequence. The user then has to replicate the sequence by pressing those buttons in the same order. The sequences become progressively longer and more difficult until the user is unable to repeat the sequence and the game ends.
 
-### Why is this important?
+### Why is this app important?
 
 * While such games are entertaining, the complexity and randomness of the sequences also allows the game to be used as a means of practicing memory storage techniques. There is some evidence that individuals with mild cognitive impairment can benefit from memory enhancement training from such games.
 * To make this web app accessible to those in rural areas without the need to develop physical electronic devices.
