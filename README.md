@@ -21,7 +21,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#game-progression">Game Progression</a></li>
+        <li><a href="#angles-obtained-from-the-phone-using-absolute-device-orientation">Angles obtained from the phone using absolute device orientation</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -123,6 +124,7 @@ In Figure 2, where we are looking at the bottom of the phone, being at on a surf
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Installation
 
 
 
