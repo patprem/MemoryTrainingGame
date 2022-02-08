@@ -34,6 +34,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<p align="center">
+  <b>WATCH, REMEMBER & PLAY!</b>
+</p>
 
 <p align="center">
   <img src ="https://i0.wp.com/retropond.com/wp-content/uploads/2021/07/Simon.gif?fit=480%2C270&ssl=1" height = 300 width = 500>
@@ -126,12 +129,15 @@ In Figure 2, where we are looking at the bottom of the phone, being at on a surf
 
 ### Installation
 
+* Open Windows Command Prompt or any other terminal window and clone repo:
+``` sh
+https://github.com/patprem/MemoryTrainingGame.git
+```
+OR
 
+Just click on ``` Download ZIP ``` from Code tab on main page of this repo.
 
-
-
-
-
+* Open  ``` index.html ``` to play the game.
 
 <!-- CONTRIBUTE -->
 ## Contribute
