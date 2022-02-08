@@ -139,6 +139,8 @@ Just click on ``` Download ZIP ``` from Code tab on main page of this repo.
 
 * Open  ``` index.html ``` to play the game.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- CONTRIBUTE -->
 ## Contribute
 
