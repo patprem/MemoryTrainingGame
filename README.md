@@ -51,7 +51,7 @@ Simon is a 40-year-old electronic game, currently produced by [Hasbro](https://e
 <!-- GETTING STARTED -->
 ## Getting Started
 ### How this works?
-#### Game Progression
+### Game Progression
 The table shown below depicts some example sequences that might be shown when playing the game.
 ![table1](https://github.com/patprem/MemoryTrainingGame/blob/5292c14b277cb99ed5abb682b7cdf7d027a26bad/table1.png)
 
@@ -61,15 +61,15 @@ The difficulty level (sequence length) increases after the user gets a certain n
   <img src = "https://github.com/patprem/MemoryTrainingGame/blob/abc60e13c3bef98531fe514e1f57597381b1872a/table2.png" width = 500 height = 300>
 </p>
 
-For example, at the start of the game, the player is given sequences of length 4. The player receives RRGB followed by GGBY and they get both correct. Since they have entered two sequences correctly, the game now increases to sequences of length 5. The player then receives YYGBR (a sequence of length 5) and needs to enter 3 of further correct sequences to advance to sequences of length 6.
+* For example, at the start of the game, the player is given sequences of length 4. The player receives RRGB followed by GGBY and they get both correct. Since they have entered two sequences correctly, the game now increases to sequences of length 5. The player then receives YYGBR (a sequence of length 5) and needs to enter 3 of further correct sequences to advance to sequences of length 6.
 
-Any time the player makes a mistake, they start again at the previous level (or reset to level 4 if they make two consecutive errors). The player cannot be given sequences shorter than 4 (as this is the starting level).
+* Any time the player makes a mistake, they start again at the previous level (or reset to level 4 if they make two consecutive errors). The player cannot be given sequences shorter than 4 (as this is the starting level).
 
-#### Angles obtained from the phone using absolute device orientation
+### Angles obtained from the phone using absolute device orientation
 
-There are some situations where it may be too difficult for the user to interact with the app using the buttons on the screen (for example while wearing gloves). As such, we want to allow users to control the app using the phones orientation.
+* There are some situations where it may be too difficult for the user to interact with the app using the buttons on the screen (for example while wearing gloves). As such, we want to allow users to control the app using the phones orientation.
 
-When using absolute device orientation there are four values: x, y, z and w; where x value represents the forwards-backwards tilt of the phone. It can visualised as below:
+* When using absolute device orientation there are four values: x, y, z and w; where x value represents the forwards-backwards tilt of the phone. It can visualised as below:
 
 <p align="center">
     <img src="https://github.com/patprem/MemoryTrainingGame/blob/68eb2ed99ca9faa70b082947c58207ab5cc25bd8/fig1.png" width = 400 height = 300 alt>
@@ -89,11 +89,18 @@ In Figure 1, where we are looking at the phone from the side, this means that wh
 
 In Figure 2, where we are looking at the bottom of the phone, being at on a surface gives a gamma of 0 degrees, tilting the phone to the left gives it a gamma of -45 whereas tilting to the right gives it +45 degrees.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
+<!-- CONTRIBUTE -->
+## Contribute
 
+If you like this project and interested to contribute:
+* Please show your support by ⭐ (star) the project.
+* Submit pull requests and improve the repo overall quality.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
