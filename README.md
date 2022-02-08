@@ -129,7 +129,7 @@ In Figure 2, where we are looking at the bottom of the phone, being at on a surf
 
 ### Installation
 
-* Open Windows Command Prompt or any other terminal window and clone repo:
+1. Open Windows Command Prompt or any other terminal window and clone repo:
 ``` sh
 https://github.com/patprem/MemoryTrainingGame.git
 ```
@@ -137,7 +137,7 @@ OR
 
 Just click on ``` Download ZIP ``` from Code tab on main page of this repo.
 
-* Open  ``` index.html ``` to play the game.
+2. Open  ``` index.html ``` to play the game.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
