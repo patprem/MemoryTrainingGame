@@ -12,15 +12,19 @@
       <ul>
         <li><a href="#why-is-this-important">Why is this important?</a></li>
       </ul>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites?</a></li>
+      </ul>
     </li>
+     <li><a href="#game-design">Game Design</a></li>
+     <li><a href="#features">Features</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#how-this-works">How this works?</a></li>
+        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#sample-results">Sample Results</a></li>
     <li><a href="#contribute">Contribute</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a>
     
@@ -35,8 +39,6 @@
 </p>
 The objective of this project is to develop a memory skill game based on the electronic game Simon, produced by Hasbro. This mobile web app, built in HTML, CSS and JavaScript, displays random sequences of colours which the user must repeat from memory. As the user continually enters correct sequences the game progressively selects longer sequences.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Background
 
 Simon is a 40-year-old electronic game, currently produced by [Hasbro](https://en.wikipedia.org/wiki/Simon_(game)). The game has four coloured buttons that light up and play a sound in sequence. The user then has to replicate the sequence by pressing those buttons in the same order. The sequences become progressively longer and more difficult until the user is unable to repeat the sequence and the game ends.
@@ -46,11 +48,41 @@ Simon is a 40-year-old electronic game, currently produced by [Hasbro](https://e
 * While such games are entertaining, the complexity and randomness of the sequences also allows the game to be used as a means of practicing memory storage techniques. There is some evidence that individuals with mild cognitive impairment can benefit from memory enhancement training from such games.
 * To make this web app accessible to those in rural areas without the need to develop physical electronic devices.
 
+### Prerequisites
+* Android device
+* Internet connection
+* Browser support (Google Chrome, preferably)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Game Design
+
+![design](https://github.com/patprem/MemoryTrainingGame/blob/508afb2e2c61649d383641e90e4261bbd993e14e/images/gamedesign.jpeg)
+
+* Minimum level = 4
+* Length of sequence = user’s level
+* 2 consecutive failures, Level down.
+* Consecutive successes = (user’s level – 2),  Level up.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Features
+
+<p align = "center">
+  <img src = "https://github.com/patprem/MemoryTrainingGame/blob/ca68ef350f43774ff208e90485dfa5b9794b59af/images/features.jpg">
+</p>
+
+* Touch Mode & Tilt Mode
+* Border of the button which the device is tilted towards will be highlighted
+* Fluid and simple interface
+* Current game information is displayed to user
+* Toast message to tell user what to do – Watch/Select Button
+* Easy to understand and play
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
-### How this works?
 ### Game Progression
 The table shown below depicts some example sequences that might be shown when playing the game.
 ![table1](https://github.com/patprem/MemoryTrainingGame/blob/3863e4b3f8c4a0f860442880de04873161490dab/images/table1.png)
@@ -90,6 +122,14 @@ In Figure 1, where we are looking at the phone from the side, this means that wh
 In Figure 2, where we are looking at the bottom of the phone, being at on a surface gives a gamma of 0 degrees, tilting the phone to the left gives it a gamma of -45 whereas tilting to the right gives it +45 degrees.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+
+
+
+
 
 <!-- CONTRIBUTE -->
 ## Contribute
