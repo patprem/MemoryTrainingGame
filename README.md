@@ -131,7 +131,7 @@ In Figure 2, where we are looking at the bottom of the phone, being at on a surf
 
 1. Open Windows Command Prompt or any other terminal window and clone repo:
 ``` sh
-https://github.com/patprem/MemoryTrainingGame.git
+git clone https://github.com/patprem/MemoryTrainingGame.git
 ```
 OR
 
